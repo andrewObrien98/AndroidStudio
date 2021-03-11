@@ -5,6 +5,7 @@ import androidx.appcompat.widget.AppCompatButton;
 import androidx.appcompat.widget.AppCompatEditText;
 import androidx.appcompat.widget.AppCompatTextView;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.LinearLayout;
