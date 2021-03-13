@@ -25,6 +25,6 @@ public class DrawingView extends View {
         );// where ever you set the origin is 0,0
         canvas.restore();//sets the origin back to the top left of the screen
 
-        canvas.drawRect(50, 50, 150, 150, paint);
+        canvas.drawRect(0, 10, 150, 150, paint);
     }
 }
