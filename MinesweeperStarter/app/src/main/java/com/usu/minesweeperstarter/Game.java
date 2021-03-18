@@ -155,15 +155,17 @@ public class Game {
 
 
     public void handleTap(MotionEvent e) {
-        double x = e.getX()/cellWidth;
-        double y = e.getY()/cellHeight;
-        int col = (int) x;
-        int row = (int) y;
-        if(cells[row][col].getType() == Cell.Type.MINE){
-            state = State.LOSE;
-            revealMines();
-        } else {
-            explodeBlankCells(row, col);
+        if(state == State.PLAY) {
+            double x = e.getX() / cellWidth;
+            double y = e.getY() / cellHeight;
+            int col = (int) x;
+            int row = (int) y;
+            if (cells[row][col].getType() == Cell.Type.MINE) {
+                state = State.LOSE;
+                revealMines();
+            } else {
+                explodeBlankCells(row, col);
+            }
         }
 
         // TODO: find the cell the player tapped
@@ -174,16 +176,18 @@ public class Game {
     }
 
     public void handleLongPress(MotionEvent e) {
-        double x = e.getX()/cellWidth;
-        double y = e.getY()/cellHeight;
-        int col = (int) x;
-        int row = (int) y;
-        cells[row][col].toggleMark();
-        if(cells[row][col].getType() == Cell.Type.MINE){
-            totalToggledMines += 1;
-        }
-        if(totalToggledMines == mineCount){
-            state = State.WIN;
+        if(state == State.PLAY) {
+            double x = e.getX() / cellWidth;
+            double y = e.getY() / cellHeight;
+            int col = (int) x;
+            int row = (int) y;
+            cells[row][col].toggleMark();
+            if (cells[row][col].getType() == Cell.Type.MINE) {
+                totalToggledMines += 1;
+            }
+            if (totalToggledMines == mineCount) {
+                state = State.WIN;
+            }
         }
         // TODO: find the cell and toggle its mark
         //       then check to see if the player won the game

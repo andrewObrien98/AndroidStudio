@@ -62,59 +62,8 @@ public class Cell {
     }
 
     public void draw(Canvas canvas, Paint paint) {
-//        if(type == Type.MINE){
-//            paint.setColor(Color.WHITE);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//            paint.setTextSize(50);
-//            paint.setColor(colors[2]);
-//            canvas.drawText("X", (float) xPos + 25,(float) yPos + 45, paint);
-//        } else if(type == Type.NUMBER){
-//            paint.setColor(Color.LTGRAY);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//            paint.setTextSize(50);
-//            paint.setColor(getColor());
-//            canvas.drawText(numNeighbors + "", (float) xPos + 25,(float) yPos + 45, paint);
-//        }
-//        if(type == Type.MINE){
-//            paint.setColor(Color.WHITE);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//            paint.setTextSize(50);
-//            paint.setColor(colors[2]);
-//            canvas.drawText("X", (float) xPos + 25,(float) yPos + 45, paint);}
-//        else if (type == Type.NUMBER ){
-//            paint.setColor(Color.LTGRAY);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//            paint.setTextSize(50);
-//            paint.setColor(getColor());
-//            canvas.drawText(numNeighbors + "", (float) xPos + 25,(float) yPos + 45, paint);}
-//        if(!isSelected){
-//            paint.setColor(Color.DKGRAY);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//        }
-//        else if(!isMarked){
-//            if(type == Type.MINE){
-//                paint.setColor(Color.WHITE);
-//                canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//                paint.setTextSize(50);
-//                paint.setColor(colors[2]);
-//                canvas.drawText("X", (float) xPos + 25,(float) yPos + 45, paint);
-//             } else if (type == Type.NUMBER ){
-//                paint.setColor(Color.LTGRAY);
-//                canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//                paint.setTextSize(50);
-//                paint.setColor(getColor());
-//                canvas.drawText(numNeighbors + "", (float) xPos + 25,(float) yPos + 45, paint);
-//            } else {
-//                paint.setColor(Color.LTGRAY);
-//                canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//            }
-//        } else {
-//            paint.setColor(Color.RED);
-//            canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
-//        }
-
         if(isSelected()){
-            if(type == Type.MINE && isSelected){
+            if(type == Type.MINE ){
                 paint.setColor(Color.WHITE);
                 canvas.drawRect((float)xPos + 2, (float) yPos + 2, (float) width - 2, (float) height - 2, paint);
                 paint.setTextSize(50);
