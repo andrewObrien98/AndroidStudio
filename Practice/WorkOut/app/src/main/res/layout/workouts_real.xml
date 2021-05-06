@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/new_workouts_layout"
+        android:layout_width="397dp"
+        android:layout_height="195dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/quantity_new_workout"></LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/add_new_exercise_to_workout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toTopOf="@+id/unit_amount_new_workout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView11"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+    <LinearLayout
+        android:id="@+id/goals_layout"
+        android:layout_width="394dp"
+        android:layout_height="210dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/new_workouts_layout">
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/unit_new_workout"
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="unit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <EditText
+        android:id="@+id/unit_amount_new_workout"
+        android:layout_width="67dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:hint="unit"
+        app:layout_constraintStart_toEndOf="@+id/amount_new_workout"
+        app:layout_constraintTop_toTopOf="@+id/amount_new_workout" />
+
+    <EditText
+        android:id="@+id/quantity_new_workout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:hint="quantity"
+        app:layout_constraintEnd_toStartOf="@+id/unit_new_workout"
+        app:layout_constraintTop_toTopOf="@+id/unit_new_workout" />
+
+    <EditText
+        android:id="@+id/amount_new_workout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:hint="amount"
+        app:layout_constraintStart_toEndOf="@+id/unit_new_workout"
+        app:layout_constraintTop_toTopOf="@+id/unit_new_workout" />
+
+    <EditText
+        android:id="@+id/workout_new_workout"
+        android:layout_width="77dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:hint="Workout"
+        app:layout_constraintEnd_toStartOf="@+id/quantity_new_workout"
+        app:layout_constraintTop_toTopOf="@+id/unit_new_workout" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Today's Workout"
+        android:textSize="26dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/date_of_workout_text" />
+
+    <EditText
+        android:id="@+id/date_of_workout_text"
+        android:layout_width="199dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="32dp"
+        android:hint="Date"
+        android:textSize="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

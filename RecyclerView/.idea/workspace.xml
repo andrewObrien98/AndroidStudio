@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dac15d4-a4d0-428e-b596-2162afcd5176" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/java/com/example/canvasuistarter/courseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/java/com/example/canvasuistarter/courseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/java/com/example/canvasuistarter/upcomingEventAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/java/com/example/canvasuistarter/upcomingEventFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/java/com/example/canvasuistarter/userFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/drawable/ic_baseline_event_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/drawable/ic_baseline_menu_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/drawable/ic_baseline_school_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/drawable/ic_baseline_tag_faces_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/course_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/fragment_course.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/fragment_upcoming_event.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/upcoming_event_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/layout/user_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasUI/CanvasUIStarter/CanvasUIStarter/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/.idea/Fragments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/java/com/example/myapplication/DashBoardFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/java/com/example/myapplication/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/java/com/example/myapplication/SettingsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fragments/BasicFragments/app/src/main/res/layout/fragment_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelsAndDatabases/InstallingRoom/app/src/main/java/com/example/myapplication/database/AppDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelsAndDatabases/InstallingRoom/app/src/main/java/com/example/myapplication/database/TodoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelsAndDatabases/InstallingRoom/app/src/main/java/com/example/myapplication/models/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationDrawer/app/src/main/res/drawable/ic_baseline_home_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationDrawer/app/src/main/res/drawable/ic_baseline_menu_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationDrawer/app/src/main/res/drawable/ic_baseline_person_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationDrawer/app/src/main/res/drawable/ic_baseline_settings_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationDrawer/app/src/main/res/menu/drawer_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/BaseData/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/androidTest/java/com/example/fragments/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/java/com/example/fragments/Center.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/java/com/example/fragments/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/java/com/example/fragments/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/java/com/example/fragments/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/layout/fragment_center.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/layout/fragment_location.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/app/src/test/java/com/example/fragments/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/PracticeFragments/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/CreateUserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/Fragments/FrontPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/Goals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/UserDataBase/ExerciseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/UserDataBase/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/UserDataBase/UserDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/UserModels/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/UserModels/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/ViewModel/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/ViewModel/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/java/com/example/workout/WorkOutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/create_new_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/goals.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/login_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/workout_front_page_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/workout_main_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/workout_notes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/workouts_real.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOut/app/src/main/res/layout/workouts_recycler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/androidTest/java/com/example/workoutfinalproject/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/java/com/example/workoutfinalproject/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/app/src/test/java/com/example/workoutfinalproject/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WorkOutFinalProject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/database/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/database/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RecyclerView.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/app/src/main/java/com/example/recyclerviewpart1/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/app/src/main/java/com/example/recyclerviewpart1/ContactsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/app/src/main/res/layout/contact_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkoutApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkoutApp/.idea/WorkoutApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkoutApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkoutApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkoutApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/MVVM/app/src/main/java/com/example/mvvmcounter/model/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/MVVM/app/src/main/java/com/example/mvvmcounter/model/workout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/MVVM/app/src/main/java/com/example/mvvmcounter/viewmodels/CounterViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/frameLayout/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/roomdataBase/app/src/main/java/com/example/roomdatabase/Database/AppDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/roomdataBase/app/src/main/java/com/example/roomdatabase/Database/ContactDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit6/roomdataBase/app/src/main/java/com/example/roomdatabase/models/Contacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../XML/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../XML/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rX1fOPa1CswWIICaNeu5A097oF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dac15d4-a4d0-428e-b596-2162afcd5176" name="Default Changelist" comment="" />
+      <created>1619107723005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619107723005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
